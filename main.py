@@ -7,3 +7,6 @@ def Weather_controller(location):
     print(temp)
 location = input("Enter location: ")
 Weather_controller(location)
+
+#this is very newwwwww
+print(temp)
